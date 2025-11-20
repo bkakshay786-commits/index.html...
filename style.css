@@ -1,0 +1,36 @@
+body{
+    background-color: palevioletred;
+    margin: 0;
+}
+flex-layout{
+    flex-direction: column;
+}
+h1{
+    size: 20px;
+    font-style: italic;
+    padding: auto;
+}
+h2{
+    size: 20px;
+    font-style: italic;
+}
+h3{
+    size: 20px;
+    font-style: italic;
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+
+}
+a{
+    background-color: lightpink;
+    text-align: center;
+    size: 40px;
+}
+h4{
+    background-color: lightsteelblue;
+    size: 500px;
+    text-align: right;
+    font-weight: bolder;
+}
